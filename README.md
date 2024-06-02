@@ -1,6 +1,6 @@
 # CAPE: CAM as a Probabilistic Ensemble for Enhanced DNN Interpretation
 
-[CAPE: CAM as a Probabilistic Ensemble for Enhanced DNN Interpretation, CVPR 2024]()
+[CAPE: CAM as a Probabilistic Ensemble for Enhanced DNN Interpretation, CVPR 2024](https://arxiv.org/abs/2404.02388)
 
 Created by Townim Faisal Chowdhury, Kewen Liao, Vu Minh Hieu Phan, Minh-Son To, Yutong Xie, Kevin Hung, David Ross, Anton van den Hengel, Johan W. Verjans, and Zhibin Liao
 
@@ -14,7 +14,6 @@ The research paper addresses the problems with the class activation map (CAM) me
     <td style="text-align: center;">Method</td>
     <td style="text-align: center;">Top-1 Prediction</td>
     <td style="text-align: center;">Top-2 Prediction</td>
-    <!-- <td style="text-align: center;"> &micro;-CAPE (PF) [41.3%]</td> -->
   </tr>
   <tr>
     <td rowspan="6" style="text-align: center;">
@@ -42,17 +41,7 @@ The research paper addresses the problems with the class activation map (CAM) me
     <br>Pred: 0.3% <br>Class: Red headed Woodpecker
     </td>
   </tr>
-  <!-- <tr>
-    <td style="text-align: center;">&micro;-CAPE (PF)</td>
-    <td style="text-align: center;">
-    <img src="assets/top-1/Pileated_Woodpecker_0083_180038.jpg_mu_cape_pred_187_confidence_score_0.219.jpg" width="190" alt="Original"/>
-    <br>Pred: 21.9% <br>Class: Pileated Woodpecker
-    </td>
-    <td style="text-align: center;">
-    <img src="assets/top-2/Pileated_Woodpecker_0083_180038.jpg_mu_cape_pred_190_confidence_score_0.034.jpg" width="190" /> 
-    <br>Pred: 0.3% <br>Class: Red headed Woodpecker
-    </td>
-  </tr> -->
+
 </table>
 
 
