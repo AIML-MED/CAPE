@@ -1,0 +1,7 @@
+pillow
+opencv-python
+torch
+torchvision
+torchaudio
+tqdm
+numpy
